@@ -1,0 +1,124 @@
+-------------------------- STATISTICS --------------------------
+
+Hard constraints satisfied: 100.00 %
+Soft constraints satisfied: 63.64 %
+
+TOTAL empty space for all GROUPS and all days: 0
+MAX empty space for GROUP in day: 0
+AVERAGE empty space for GROUPS per week: 0.00
+
+TOTAL empty space for all TEACHERS and all days: 0
+MAX empty space for TEACHER in day: 0
+AVERAGE empty space for TEACHERS per week: 0.00
+
+Free term -> Monday: 9
+
+--------------------------- SCHEDULE ---------------------------
+
+Class 5
+Teacher: Radosavljevic Nemanja 
+Subject: Human Computer Interaction 
+Groups: 301, 303, 304, 305 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Thursday 15 16
+
+Class 7
+Teacher: Jovanovic Nikola 
+Subject: Machine Learning 
+Groups: 301, 302, 306, 308 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Tuesday 13 14
+
+Class 8
+Teacher: Vujosevic Dusan 
+Subject: Human Computer Interaction 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a,  2s1, 2s2 
+Type: P 
+Duration: 2 hour(s)
+Classroom: Kolarac 
+Time: Monday 15 16
+
+Class 9
+Teacher: Vujosevic Dusan 
+Subject: Compilers 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Monday 13 14
+
+Class 6
+Teacher: Gavrilovic Vuk 
+Subject: WEB programming 
+Groups: 301, 303, 304, 307, 322 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Thursday 13 14
+
+Class 11
+Teacher: Ivana Stankovic 
+Subject: Program Translators 
+Groups: 302, 303, 304 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U4 
+Time: Wednesday 13 14
+
+Class 4
+Teacher: Ivana Stankovic 
+Subject: Program translators 
+Groups: 301, 305, 308 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Monday 11 12
+
+Class 2
+Teacher: Vidakovic MIlan 
+Subject: WEB Programming 
+Groups: 301, 303, 304, 307, 308, 309, 314, 319, 322 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Friday 15 16
+
+Class 1
+Teacher: Ilic Nemanja 
+Subject: Machine Learning 
+Groups: 301, 302, 306, 308 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Wednesday 15 16
+
+Class 0
+Teacher: Dimic Surla Bojana 
+Subject: Software Components 
+Groups: 301, 307, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Tuesday 11 12
+
+Class 3
+Teacher: Radovic Mihailo 
+Subject: Software Components 
+Groups: 301, 307, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Wednesday 13 14
+
+Class 10
+Teacher: Tomic Milan 
+Subject: Genetic Algorithms 
+Groups: 303,  302 
+Type: V 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Tuesday 13 14

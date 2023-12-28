@@ -1,0 +1,297 @@
+{
+  "Classrooms": {
+    "AL": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "204",
+      "205",
+      "206",
+      "207"
+    ],
+    "DL": [
+      "001",
+      "002"
+    ],
+    "Lab1": [
+      "1A",
+      "1B",
+      "1C"
+    ],
+    "Lab2": [
+      "2A",
+      "2B",
+      "2C"
+    ],
+    "Lab3": [
+      "Lab3"
+    ]
+  },
+  "Classes": [
+    {
+      "Subject": "Linear Algebra",
+      "Type": "L",
+      "Teacher": "Prof. Sagar Rawool",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Discrete Mathematics",
+      "Type": "L",
+      "Teacher": "Prof. Singhade ",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Linear Algebra",
+      "Type": "T",
+      "Teacher": "Prof. Sagar Rawool ",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "1"
+    },
+    {
+      "Subject": "Digital Logic Design",
+      "Type": "L",
+      "Teacher": "Prof. Sambhe",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Digital Logic Design",
+      "Type": "T",
+      "Teacher": "Prof. Sambhe ",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "1"
+    },
+    {
+      "Subject": "Data Structures and Algorithms",
+      "Type": "L",
+      "Teacher": "Prof. Manasi Kulkarni",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "DSA Lab",
+      "Type": "P",
+      "Teacher": "Prof. Udmale",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "Lab1",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Computer Organization and Architecture",
+      "Type": "L",
+      "Teacher": "Prof. Srinivas Khedkar",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Programming Lab 1",
+      "Type": "P",
+      "Teacher": "Prof. Shivani Supe",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "Lab2",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Programming Lab 1",
+      "Type": "T",
+      "Teacher": "Prof. Shivani Supe",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "1"
+    },
+    {
+      "Subject": "Environmental Studies",
+      "Type": "L",
+      "Teacher": "Prof. Vaishali",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "DL",
+      "Duration": "1"
+    },
+    {
+      "Subject": "EITK",
+      "Type": "L",
+      "Teacher": "Prof. Samauel Ansari",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "DL",
+      "Duration": "1"
+    },
+    {
+      "Subject": "Data Interpretation and Analysis",
+      "Type": "L",
+      "Teacher": "Prof. Sagar Rawool",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "DIA Tutorial",
+      "Type": "T",
+      "Teacher": "Prof. Sagar Rawool ",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "1"
+    },
+    {
+      "Subject": "Autometa Theory",
+      "Type": "L",
+      "Teacher": "Prof. Singhade",
+      "Groups": [
+        " CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Design and Analysis of Algorithms",
+      "Type": "L",
+      "Teacher": "Prof. Manasi Kulkarni",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Operating System",
+      "Type": "L",
+      "Teacher": "Prof. Srinivas Khedkar",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "OS Lab",
+      "Type": "P",
+      "Teacher": "Prof. Srinivas Khedkar",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "Lab2",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Database Management System",
+      "Type": "L",
+      "Teacher": "Prof. Shrawane",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "3"
+    },
+    {
+      "Subject": "DBMS Lab",
+      "Type": "P",
+      "Teacher": "Prof. Shraddha Suratkar",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "Lab1",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Programming Lab 1",
+      "Type": "P",
+      "Teacher": "Prof. Shivani Supe",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "Lab2",
+      "Duration": "3"
+    },
+    {
+      "Subject": "Web Technologies",
+      "Type": "P",
+      "Teacher": "Prof. Gaurav Mhatre",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "Lab2",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Web Technologies",
+      "Type": "T",
+      "Teacher": "Prof. Gaurav Mhatre",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "AL",
+      "Duration": "1"
+    },
+    {
+      "Subject": "Development Engineering",
+      "Type": "L",
+      "Teacher": "Prof. Vaibhav Dhore",
+      "Groups": [
+        "CS",
+        "IT"
+      ],
+      "Classroom": "DL",
+      "Duration": "2"
+    }
+  ]
+}

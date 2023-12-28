@@ -1,0 +1,195 @@
+{
+  "Classrooms": {
+    "a": [
+      "Atelje"
+    ],
+    "k": [
+      "Kolarac"
+    ],
+    "n": [
+      "U1",
+      "U8"
+    ],
+    "r": [
+      "U3",
+      "U4",
+      "U5",
+      "U7"
+    ],
+    "s": [
+      "Studio"
+    ]
+  },
+  "Classes": [
+    {
+      "Subject": "Compilers",
+      "Type": "P",
+      "Teacher": "Vujosevic Dusan",
+      "Groups": [
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "306",
+        "307",
+        "308",
+        "309",
+        "309a"
+      ],
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Human Computer Interaction",
+      "Type": "P",
+      "Teacher": "Vujosevic Dusan",
+      "Groups": [
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "306",
+        "307",
+        "308",
+        "309",
+        "309a",
+        " 2s1",
+        "2s2"
+      ],
+      "Classroom": "k",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Machine Learning",
+      "Type": "P",
+      "Teacher": "Ilic Nemanja",
+      "Groups": [
+        "301",
+        "302",
+        "306",
+        "308"
+      ],
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Human Computer Interaction",
+      "Type": "V",
+      "Teacher": "Radosavljevic Nemanja",
+      "Groups": [
+        "301",
+        "303",
+        "304",
+        "305"
+      ],
+      "Classroom": "r",
+      "Duration": "2"
+    },
+    {
+      "Subject": "WEB Programming",
+      "Type": "P",
+      "Teacher": "Vidakovic MIlan",
+      "Groups": [
+        "301",
+        "303",
+        "304",
+        "307",
+        "308",
+        "309",
+        "314",
+        "319",
+        "322"
+      ],
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Subject": "WEB programming",
+      "Type": "V",
+      "Teacher": "Gavrilovic Vuk",
+      "Groups": [
+        "301",
+        "303",
+        "304",
+        "307",
+        "322"
+      ],
+      "Classroom": "r",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Program translators",
+      "Type": "V",
+      "Teacher": "Ivana Stankovic",
+      "Groups": [
+        "301",
+        "305",
+        "308"
+      ],
+      "Classroom": "r",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Software Components",
+      "Type": "P",
+      "Teacher": "Dimic Surla Bojana",
+      "Groups": [
+        "301",
+        "307",
+        "309a"
+      ],
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Software Components",
+      "Type": "V",
+      "Teacher": "Radovic Mihailo",
+      "Groups": [
+        "301",
+        "307",
+        "309a"
+      ],
+      "Classroom": "r",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Machine Learning",
+      "Type": "V",
+      "Teacher": "Jovanovic Nikola",
+      "Groups": [
+        "301",
+        "308",
+        "302",
+        "306"
+      ],
+      "Classroom": "n",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Genetic Algorithms",
+      "Type": "V",
+      "Teacher": "Tomic Milan",
+      "Groups": [
+        " 302",
+        "303"
+      ],
+      "Classroom": "r",
+      "Duration": "2"
+    },
+    {
+      "Subject": "Program Translators",
+      "Type": "V",
+      "Teacher": "Ivana Stankovic",
+      "Groups": [
+        "302",
+        "303",
+        "304"
+      ],
+      "Classroom": "r",
+      "Duration": "2"
+    }
+  ]
+}
